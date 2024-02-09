@@ -1,0 +1,17 @@
+[target.'cfg(all(target_arch = "arm", target_os = "none"))']
+runner = "probe-rs run --chip STM32F413RHTx" # this does not seem to do anything
+
+[build]
+target = "thumbv7em-none-eabi"
+
+[env]
+DEFMT_LOG = "trace"
+
+[profile.release]
+# Allows defmt to display log locations even in release
+debug = true
+
+[alias]
+fl_can = "flash --bin can --release --chip STM32f413RHTx"
+fl_accel = "flash --bin accel --release --chip STM32f413RHTx"
+fl_load = "flash --bin load --release --chip STM32f413RHTx"
