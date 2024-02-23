@@ -1,0 +1,10 @@
+C:\Users\julia\Desktop\term files\julian_gui_1\target\debug\deps\libaccesskit_consumer-c46c48cb8f33a462.rmeta: C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\lib.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\tree.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\node.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\filters.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\iterators.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\text.rs
+
+C:\Users\julia\Desktop\term files\julian_gui_1\target\debug\deps\accesskit_consumer-c46c48cb8f33a462.d: C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\lib.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\tree.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\node.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\filters.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\iterators.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\text.rs
+
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\lib.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\tree.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\node.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\filters.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\iterators.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.16.1\src\text.rs:

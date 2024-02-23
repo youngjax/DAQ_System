@@ -1,0 +1,13 @@
+C:\Users\julia\Desktop\term files\julian_gui_1\target\debug\deps\libemath-69fcfde7ebb2d1b2.rmeta: C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\lib.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\align.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\numeric.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\pos2.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\rect.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\rect_transform.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\rot2.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\smart_aim.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\vec2.rs
+
+C:\Users\julia\Desktop\term files\julian_gui_1\target\debug\deps\emath-69fcfde7ebb2d1b2.d: C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\lib.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\align.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\numeric.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\pos2.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\rect.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\rect_transform.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\rot2.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\smart_aim.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\vec2.rs
+
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\lib.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\align.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\numeric.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\pos2.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\rect.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\rect_transform.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\rot2.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\smart_aim.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.14.0\src\vec2.rs:

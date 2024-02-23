@@ -1,0 +1,8 @@
+C:\Users\julia\Desktop\term files\GUI\target\debug\deps\libidna-f984dc0cf7366a04.rmeta: C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\lib.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\punycode.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46_mapping_table.rs
+
+C:\Users\julia\Desktop\term files\GUI\target\debug\deps\idna-f984dc0cf7366a04.d: C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\lib.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\punycode.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46.rs C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46_mapping_table.rs
+
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\lib.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\punycode.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46.rs:
+C:\Users\julia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46_mapping_table.rs:
